@@ -5,7 +5,9 @@ from threading import Thread
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from webwhatsapi import WhatsAPIDriver
+# from webwhatsapi import WhatsAPIDriver
+# from openwapy.src import WhatsAPIDriver as waDriver
+
 
 from pprint import pprint
 
