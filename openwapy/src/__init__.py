@@ -260,10 +260,10 @@ class WhatsAPIDriver(object):
 				chrome_options = webdriver.ChromeOptions()
 				binPath = "/usr/bin/google-chrome"
 				profileDir = "/session/rprofile2"
-				executable_path = "/home/magic/wholesomegarden/WhatsappMaster/chromedriver"
-				profileDir = "/home/magic/wholesomegarden/WhatsappMaster"+profileDir
-				# executable_path = "/root/WhatsappMaster/chromedriver"
-				# profileDir = "/root/WhatsappMaster"+profileDir
+				# executable_path = "/home/magic/wholesomegarden/WhatsappMaster/chromedriver"
+				# profileDir = "/home/magic/wholesomegarden/WhatsappMaster"+profileDir
+				executable_path = "/root/WhatsappMaster/chromedriver"
+				profileDir = "/root/WhatsappMaster"+profileDir
 				print(binPath, executable_path)
 				print(binPath, executable_path)
 				print(binPath, executable_path)

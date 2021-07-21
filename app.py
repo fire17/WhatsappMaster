@@ -55,7 +55,7 @@ production = False
 
 Headless = not runLocal
 noFlask = runLocal
-Headless = False
+Headless = True
 noFlask = False
 
 LASTGROUP = {0:1000}
@@ -211,10 +211,10 @@ class Master(object):
 			profileDir = "/"+"/".join(profileDir.split("/")[2:])
 			chrome_options = webdriver.ChromeOptions()
 			binPath = "/usr/bin/google-chrome"
-			executable_path = "/home/magic/wholesomegarden/WhatsappMaster/chromedriver"
-			profileDir = "/home/magic/wholesomegarden/WhatsappMaster"+profileDir
-			# executable_path = "/root/WhatsappMaster/chromedriver"
-			# profileDir = "/root/WhatsappMaster"+profileDir
+			# executable_path = "/home/magic/wholesomegarden/WhatsappMaster/chromedriver"
+			# profileDir = "/home/magic/wholesomegarden/WhatsappMaster"+profileDir
+			executable_path = "/root/WhatsappMaster/chromedriver"
+			profileDir = "/root/WhatsappMaster"+profileDir
 
 			print(binPath, executable_path)
 			# input()
