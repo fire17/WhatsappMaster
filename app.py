@@ -1103,7 +1103,7 @@ class Master(object):
 					fromGroup = True
 
 					# self.driver.privateReply(message.id, mContent,"972512170493-1612427003@g.us")
-					self.driver.privateReply(message.id, mContent,senderID)
+					# self.driver.privateReply(message.id, mContent,senderID)
 
 					print(
 					'''
