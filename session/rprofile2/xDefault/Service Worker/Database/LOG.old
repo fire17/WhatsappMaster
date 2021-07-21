@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+2021/03/27-05:32:18.836 281 Reusing MANIFEST /root/WhatsappReminder/session/rprofile2/Default/Service Worker/Database/MANIFEST-000001
+2021/03/27-05:32:18.836 281 Recovering log #3
+2021/03/27-05:32:18.837 281 Reusing old log /root/WhatsappReminder/session/rprofile2/Default/Service Worker/Database/000003.log 
+=======
+2021/03/23-12:25:24.541 72c0 Reusing MANIFEST /home/magic/wholesomegarden/WhatsappReminder/session/rprofile2/Default/Service Worker/Database/MANIFEST-000001
+2021/03/23-12:25:24.541 72c0 Recovering log #3
+2021/03/23-12:25:24.542 72c0 Reusing old log /home/magic/wholesomegarden/WhatsappReminder/session/rprofile2/Default/Service Worker/Database/000003.log 
+>>>>>>> 94ce60d44191b2e392a43b6d46a5c121336eff45

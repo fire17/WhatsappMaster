@@ -1,0 +1,14 @@
+2021/07/19-20:18:47.260 5 Reusing MANIFEST /home/magic/wholesomegarden/WhatsappMaster/session/rprofile2/Profile 2/Local Storage/leveldb/MANIFEST-000001
+2021/07/19-20:18:47.262 5 Recovering log #22
+2021/07/19-20:18:47.262 5 Level-0 table #24: started
+2021/07/19-20:18:47.324 5 Level-0 table #24: 31856 bytes OK
+2021/07/19-20:18:47.331 5 Delete type=0 #22
+2021/07/19-20:18:47.331 6 Compacting 4@0 + 1@1 files
+2021/07/19-20:18:47.335 6 Generated table #26@0: 37 keys, 6725 bytes
+2021/07/19-20:18:47.335 6 Compacted 4@0 + 1@1 files => 6725 bytes
+2021/07/19-20:18:47.336 6 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/07/19-20:18:47.337 6 Delete type=2 #17
+2021/07/19-20:18:47.337 6 Delete type=2 #22
+2021/07/19-20:18:47.337 6 Delete type=2 #24
+2021/07/19-20:18:47.337 6 Delete type=2 #19
+2021/07/19-20:18:47.337 6 Delete type=2 #14
